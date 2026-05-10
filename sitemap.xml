@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>bunnyhopping.org</loc>
+	<lastmod>2026-05-10</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>bunnyhopping.org/interviews/</loc>
+	<lastmod>2026-05-10</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/HBM.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/HBM.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibet.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibet.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>bunnyhopping.org/int_tibet/</loc>
+	<lastmod>2026-05-10</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo3.JPG</image:loc>
+	<image:title>tibo3.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo3.webp</image:loc>
+	<image:title>tibo3.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo2.JPG</image:loc>
+	<image:title>tibo2.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo2.webp</image:loc>
+	<image:title>tibo2.JPG</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>bunnyhopping.org/int_apo/</loc>
+	<lastmod>2026-05-10</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/apo%202.jpg</image:loc>
+	<image:title>apo 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/apo%202.webp</image:loc>
+	<image:title>apo 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/abt.jpg</image:loc>
+	<image:title>abt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/abt.webp</image:loc>
+	<image:title>abt</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>bunnyhopping.org/about/</loc>
+	<lastmod>2026-05-10</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
